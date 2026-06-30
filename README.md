@@ -112,5 +112,8 @@ Deployed on **Railway** (Render also works — both support Dash via Gunicorn).
 
 ---
 
-**Author:** Shivarchan C ([GitHub](https://github.com/shiv-speccc) ·
-[LinkedIn](https://www.linkedin.com/in/shivarchan-coomaran-b47b14293))
+**Authors:**
+- Shivarchan C ([GitHub](https://github.com/shiv-speccc) ·
+  [LinkedIn](https://www.linkedin.com/in/shivarchan-coomaran-b47b14293))
+- Saurabh Kumar ([GitHub](https://github.com/Saaurabhh) ·
+  [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-18a94228a))
