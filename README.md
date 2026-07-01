@@ -117,5 +117,5 @@ Deployed on **Railway** (Render also works — both support Dash via Gunicorn).
   [LinkedIn](https://www.linkedin.com/in/shivarchan-coomaran-b47b14293))
 - Saurabh Kumar ([GitHub](https://github.com/Saaurabhh) ·
   [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-18a94228a))
-  - Rifah alam ([Github] (https://github.com/rifahalam123)
-  [Linkdean](https://www.linkedin.com/in/rifah-alam-0b61b6217/)
+- Rifah alam ([Github] (https://github.com/rifahalam123)
+  [Linkedin](https://www.linkedin.com/in/rifah-alam-0b61b6217/)
